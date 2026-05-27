@@ -1,0 +1,15 @@
+[
+    {
+        "device_id": "d3f697b62245ca89",
+        "key": "VIP123",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+
+    {
+        "device_id": "a8x45f91k2pp7",
+        "key": "TEST999",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    }
+]
