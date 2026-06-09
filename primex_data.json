@@ -1,0 +1,20 @@
+[
+  {
+    "license": "PRX-1234-AAAA",
+    "username": "",
+    "password": "",
+    "device_id": "",
+    "used": false,
+    "expirydate": "31-12-2026",
+    "lastlogin": ""
+  },
+  {
+    "license": "PRX-5678-BBBB",
+    "username": "",
+    "password": "",
+    "device_id": "",
+    "used": false,
+    "expirydate": "31-12-2026",
+    "lastlogin": ""
+  }
+]
