@@ -1,20 +1,10 @@
 [
   {
-    "license": "PRX-1234-AAAA",
-    "username": "",
-    "password": "",
-    "device_id": "",
-    "used": false,
-    "expirydate": "31-12-2026",
-    "lastlogin": ""
-  },
-  {
-    "license": "PRX-5678-BBBB",
-    "username": "of",
-    "password": "12",
-    "device_id": "778776b0499fb498",
-    "used": true,
-    "expirydate": "31-12-2028",
-    "lastlogin": ""
+    "license": "ABC123XYZ",
+    "username": "yasar",
+    "password": "123456",
+    "device_id": "a8c4d9e12f",
+    "expiry_date": "31-12-2027",
+    "active": true
   }
 ]
