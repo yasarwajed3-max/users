@@ -1,10 +1,11 @@
 [
   {
-    "license": "ABC123XYZ",
-    "username": "yasar",
-    "password": "123456",
-    "device_id": "a8c4d9e12f",
-    "expiry_date": "31-12-2027",
+    "license": "YOUR-KEY-HERE",
+    "username": "",
+    "password": "",
+    "device_id": "",
+    "register_date": "",
+    "expiry_date": "31-12-2025",
     "active": true
   }
 ]
