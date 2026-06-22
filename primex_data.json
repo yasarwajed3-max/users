@@ -205,5 +205,14 @@
         "register_date": "21-06-2026",
         "expiry_date": "21-07-2026",
         "active": true
+    },
+    {
+        "license": "SshhsWgu24",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "22-06-2026",
+        "expiry_date": "22-07-2026",
+        "active": true
     }
 ]
