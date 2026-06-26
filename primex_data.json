@@ -475,5 +475,14 @@
         "register_date": "26-06-2026",
         "expiry_date": "10-08-2026",
         "active": true
+    },
+    {
+        "license": "BDOEOEUX232HAP",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "10-08-2026",
+        "active": true
     }
 ]
