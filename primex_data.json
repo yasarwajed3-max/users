@@ -538,5 +538,14 @@
         "register_date": "28-06-2026",
         "expiry_date": "28-07-2026",
         "active": true
+    },
+    {
+        "license": "MTX",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "29-06-2026",
+        "expiry_date": "29-06-2036",
+        "active": true
     }
 ]
