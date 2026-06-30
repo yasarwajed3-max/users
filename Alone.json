@@ -13,8 +13,8 @@
     "username": "",
     "password": "",
     "device_id": "",
-    "register_date": "",
-    "expiry_date": "",
+    "register_date": "30-06-2026",
+    "expiry_date": "30-06-2036",
     "active": true
   }
 ]
