@@ -7,5 +7,14 @@
     "register_date": "30-06-2026",
     "expiry_date": "30-06-2027",
     "active": true
+  },
+  {
+    "license": "3GST-VGCE-RUU7-ME4X",
+    "username": "alone",
+    "password": "12",
+    "device_id": "",
+    "register_date": "30-06-2026",
+    "expiry_date": "30-06-2027",
+    "active": true
   }
 ]
