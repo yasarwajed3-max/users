@@ -7,5 +7,14 @@
     "register_date": "",
     "expiry_date": "",
     "active": true
+  },
+  {
+    "license": "ofbar",
+    "username": "",
+    "password": "",
+    "device_id": "",
+    "register_date": "",
+    "expiry_date": "",
+    "active": true
   }
 ]
