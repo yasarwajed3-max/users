@@ -592,5 +592,14 @@
         "register_date": "30-06-2026",
         "expiry_date": "30-06-2036",
         "active": true
+    },
+    {
+        "license": "JAPndOwo10",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "30-06-2026",
+        "expiry_date": "30-07-2026",
+        "active": true
     }
 ]
