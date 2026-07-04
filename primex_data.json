@@ -586,9 +586,9 @@
   },
   {
     "license": "ofbar",
-    "username": "",
-    "password": "",
-    "device_id": "",
+    "username": "ofba",
+    "password": "123",
+    "device_id": "0a573018835f3ddc",
     "register_date": "30-06-2026",
     "expiry_date": "30-06-2036",
     "active": true
