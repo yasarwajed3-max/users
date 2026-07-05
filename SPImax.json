@@ -16,5 +16,14 @@
     "register_date": "15-06-2026",
     "expiry_date": "15-10-2034",
     "active": true
+  },
+  {
+    "license": "OFBAR",
+    "username": "",
+    "password": "",
+    "device_id": "",
+    "register_date": "15-06-2026",
+    "expiry_date": "15-10-2034",
+    "active": true
   }
 ]
