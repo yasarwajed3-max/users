@@ -97,5 +97,14 @@
         "register_date": "06-07-2026",
         "expiry_date": "06-08-2026",
         "active": true
+    },
+    {
+        "license": "MDKFM-3493m-MDSj",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "06-07-2026",
+        "expiry_date": "06-08-2026",
+        "active": true
     }
 ]
