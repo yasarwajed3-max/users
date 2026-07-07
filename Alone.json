@@ -1,11 +1,14 @@
 [
-  {
-    "license": "B2MA-2LQU-H25A-BWVG",
-    "username": "of",
-    "password": "13",
-    "device_id": "",
-    "register_date": "30-06-2026",
-    "expiry_date": "30-06-2027",
-    "active": true
-  }
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "cabcc2456a925405",
+        "key": "vEkVxizZGJ",
+        "expirydate": "30-06-2027",
+        "Allowoffline": false
+    }
 ]
