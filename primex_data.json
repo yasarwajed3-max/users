@@ -142,5 +142,14 @@
         "register_date": "07-07-2026",
         "expiry_date": "07-08-2026",
         "active": true
+    },
+    {
+        "license": "LzndIwpJ28",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "07-07-2026",
+        "expiry_date": "07-08-2026",
+        "active": true
     }
 ]
