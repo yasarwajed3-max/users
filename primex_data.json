@@ -495,5 +495,14 @@
         "register_date": "22-07-2026",
         "expiry_date": "22-08-2026",
         "active": true
+    },
+    {
+        "license": "MnajPaI19",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "22-07-2026",
+        "expiry_date": "22-08-2026",
+        "active": true
     }
 ]
