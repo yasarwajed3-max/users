@@ -351,13 +351,12 @@
     },
     {
         "license": "JNXLASJDO",
-        "username": "Amir_Ali",
-        "password": "09015262162",
-        "device_id": "eba2b161f0f25833",
-        "register_date": "19-07-2026",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "19-08-2026",
-        "active": true,
-        "used": false
+        "active": true
     },
     {
         "license": "mNslapwH8181",
