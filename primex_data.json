@@ -856,5 +856,14 @@
         "expiry_date": "23-08-2026",
         "active": true,
         "used": false
+    },
+    {
+        "license": "DJKFN_DFKD-23m",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "23-07-2026",
+        "expiry_date": "23-08-2026",
+        "active": true
     }
 ]
