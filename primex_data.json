@@ -1086,5 +1086,14 @@
         "register_date": "23-07-2026",
         "expiry_date": "23-08-2026",
         "active": true
+    },
+    {
+        "license": "MNapai-31679",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "23-07-2026",
+        "expiry_date": "23-08-2026",
+        "active": true
     }
 ]
