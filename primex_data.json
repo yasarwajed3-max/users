@@ -641,13 +641,12 @@
     },
     {
         "license": "DKFMD-dfn2-2123",
-        "username": "MmDi",
-        "password": "123456789",
-        "device_id": "5a0cc51af373a38e",
-        "register_date": "23-07-2026 03:21:31",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "01-08-2026",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "nKdka",
