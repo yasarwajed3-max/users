@@ -1227,5 +1227,14 @@
         "register_date": "24-07-2026",
         "expiry_date": "24-08-2026",
         "active": true
+    },
+    {
+        "license": "N3C9A-OWE2J-TXQCP",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "24-07-2026",
+        "expiry_date": "24-08-2026",
+        "active": true
     }
 ]
