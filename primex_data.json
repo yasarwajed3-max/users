@@ -1135,5 +1135,14 @@
         "register_date": "24-07-2026",
         "expiry_date": "24-07-2036",
         "active": true
+    },
+    {
+        "license": "MKDFKDF-293-k2",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "24-07-2026",
+        "expiry_date": "24-08-2026",
+        "active": true
     }
 ]
