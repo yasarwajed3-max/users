@@ -270,16 +270,6 @@
         "used": false
     },
     {
-        "license": "nakKdj3+679J",
-        "username": "arvinzahedi",
-        "password": "arvinzn1393",
-        "device_id": "e1bcb52f9f4da494",
-        "register_date": "22-07-2026 23:38:14",
-        "expiry_date": "19-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "Vjkiffgkoongf",
         "username": "1389",
         "password": "mmdtaha",
@@ -1190,6 +1180,12 @@
     {
         "license": "malalaosjx9",
         "expiry_date": "22-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "nakKdj3+679J",
+        "expiry_date": "19-08-2026",
         "active": true,
         "used": true
     }
