@@ -880,16 +880,6 @@
         "used": true
     },
     {
-        "license": "DSJNDSls-23m2m-1",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "DFKLDFM-2939-2m",
         "username": "amiroo",
         "password": "amir06",
@@ -1258,6 +1248,12 @@
     {
         "license": "MbalLsl28",
         "expiry_date": "22-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "DSJNDSls-23m2m-1",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": true
     }
