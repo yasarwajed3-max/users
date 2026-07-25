@@ -850,16 +850,6 @@
         "used": false
     },
     {
-        "license": "NJDNJN2u39-238n",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "06-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "NMsjLskKe283",
         "username": "erfan",
         "password": "erfan1389",
@@ -1367,5 +1357,15 @@
         "register_date": "25-07-2026",
         "expiry_date": "25-08-2026",
         "active": true
+    },
+    {
+        "license": "FIXED-H5FLV-D1BUZ",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "06-08-2026",
+        "active": true,
+        "used": false
     }
 ]
