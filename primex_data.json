@@ -790,16 +790,6 @@
         "used": true
     },
     {
-        "license": "DFKMFD-2383njc",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "KDSKNSKJ-23923-1",
         "username": "",
         "password": "",
@@ -1338,6 +1328,12 @@
     {
         "license": "FIXED-MSSOG-IH8CB",
         "expiry_date": "25-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-BTWIG-RX5IU",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": true
     }
