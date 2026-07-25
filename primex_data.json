@@ -1080,12 +1080,6 @@
         "used": true
     },
     {
-        "license": "DFMFD-2m-2m3",
-        "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "FIXED-CVCHV-7354W",
         "expiry_date": "22-07-2036",
         "active": true,
@@ -1226,6 +1220,12 @@
     {
         "license": "FIXED-HXMMY-CZVUI",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-FY2OO-1ZSG3",
+        "expiry_date": "22-08-2026",
         "active": true,
         "used": true
     }
