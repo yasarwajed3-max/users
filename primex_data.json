@@ -670,16 +670,6 @@
         "used": true
     },
     {
-        "license": "DFMD-239cm-dsm",
-        "username": "kurosh",
-        "password": "k123456789d",
-        "device_id": "9f23cf7d12e4c80f",
-        "register_date": "23-07-2026 00:07:54",
-        "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MDMKD-3483-dm",
         "username": "",
         "password": "",
@@ -1302,6 +1292,12 @@
     {
         "license": "SDMKxm292mKsm",
         "expiry_date": "15-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "DFMD-239cm-dsm",
+        "expiry_date": "22-08-2026",
         "active": true,
         "used": true
     }
