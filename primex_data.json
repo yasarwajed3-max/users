@@ -610,16 +610,6 @@
         "used": false
     },
     {
-        "license": "SDMKxm292mKsm",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "15-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "DFMD-239cm-dsm",
         "username": "",
         "password": "",
@@ -1406,6 +1396,16 @@
         "device_id": "",
         "register_date": "",
         "expiry_date": "24-08-2026",
+        "active": true,
+        "used": false
+    },
+    {
+        "license": "FIXED-KC4BC-8U17L",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "15-08-2026",
         "active": true,
         "used": false
     }
