@@ -660,16 +660,6 @@
         "used": true
     },
     {
-        "license": "JslanJeo82",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "\u0650MKDFMKDFK-3843",
         "username": "",
         "password": "",
@@ -1226,6 +1216,12 @@
     {
         "license": "MMslsozj82",
         "expiry_date": "22-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "JslanJeo82",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": true
     }
