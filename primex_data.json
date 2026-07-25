@@ -480,16 +480,6 @@
         "used": true
     },
     {
-        "license": "MbalLsl28",
-        "username": "abolfazl.12.10.31.37@gmail.com",
-        "password": "aszxdfcv",
-        "device_id": "54d22c7bdb6b1e7d",
-        "register_date": "22-07-2026 23:26:48",
-        "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "malalaosjx9",
         "username": "Asfjx",
         "password": "Asf12345",
@@ -1262,6 +1252,12 @@
     {
         "license": "\u064fDSKSDM-1mdm",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "MbalLsl28",
+        "expiry_date": "22-08-2026",
         "active": true,
         "used": true
     }
