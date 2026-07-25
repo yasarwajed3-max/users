@@ -1170,16 +1170,6 @@
         "used": true
     },
     {
-        "license": "SKDKD203m-2",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "24-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "8383-NJJ2-8n",
         "username": "amirFBI",
         "password": "5678",
@@ -1314,6 +1304,12 @@
     {
         "license": "Amoo-MTX",
         "expiry_date": "22-07-2036",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "SKDKD203m-2",
+        "expiry_date": "24-08-2026",
         "active": true,
         "used": true
     }
