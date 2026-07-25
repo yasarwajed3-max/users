@@ -890,16 +890,6 @@
         "used": true
     },
     {
-        "license": "KNDFNDF-2383m",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "9RJWL-M3LU6-D16IO",
         "username": "",
         "password": "",
@@ -1345,5 +1335,11 @@
         "register_date": "25-07-2026",
         "expiry_date": "25-08-2026",
         "active": true
+    },
+    {
+        "license": "FIXED-T7A1H-7HRC7",
+        "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
     }
 ]
