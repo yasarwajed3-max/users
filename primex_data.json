@@ -460,16 +460,6 @@
         "used": true
     },
     {
-        "license": "SjsmskKkwii",
-        "username": "TAHA1234P",
-        "password": "TAHA1234P",
-        "device_id": "5a6f58d6972e36e3",
-        "register_date": "25-07-2026 22:00:32",
-        "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "229929#js",
         "username": "yahya",
         "password": "saf",
@@ -1218,6 +1208,12 @@
     {
         "license": "DFKLDFM-2939-2m",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "SjsmskKkwii",
+        "expiry_date": "22-08-2026",
         "active": true,
         "used": true
     }
