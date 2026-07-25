@@ -620,13 +620,12 @@
     },
     {
         "license": "MDKDF-2mdm012",
-        "username": "Abolfazl1386",
-        "password": "Abolfazl1386",
-        "device_id": "1b8a37570b203280",
-        "register_date": "22-07-2026 22:14:26",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "mmm",
