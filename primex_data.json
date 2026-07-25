@@ -1160,16 +1160,6 @@
         "used": true
     },
     {
-        "license": "nakKdj3+679J",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "19-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "dfkdkfn292M",
         "username": "",
         "password": "",
@@ -1298,6 +1288,12 @@
     {
         "license": "FIXED-GLEJ5-AID02",
         "expiry_date": "22-07-2036",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-X6AEC-THADE",
+        "expiry_date": "19-08-2026",
         "active": true,
         "used": true
     }
