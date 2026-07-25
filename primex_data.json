@@ -70,16 +70,6 @@
         "used": false
     },
     {
-        "license": "MDMFK293mfms",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "05-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MandlO2902N",
         "username": "ashkan",
         "password": "AA3169626408AA",
@@ -1246,6 +1236,12 @@
     {
         "license": "KSDKM-23923-1m",
         "expiry_date": "24-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "MDMFK293mfms",
+        "expiry_date": "05-08-2026",
         "active": true,
         "used": true
     }
