@@ -350,16 +350,6 @@
         "used": true
     },
     {
-        "license": "JNXLASJDO",
-        "username": "Amir_Ali",
-        "password": "09015262162",
-        "device_id": "9e04b7339ebe3df1",
-        "register_date": "23-07-2026 22:46:46",
-        "expiry_date": "19-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "mNslapwH8181",
         "username": "Mikasa80",
         "password": "Mahor1389",
@@ -1322,6 +1312,12 @@
     {
         "license": "NJDNJD-2822-dd",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "JNXLASJDO",
+        "expiry_date": "19-08-2026",
         "active": true,
         "used": true
     }
