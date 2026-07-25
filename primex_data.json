@@ -230,16 +230,6 @@
         "used": false
     },
     {
-        "license": "NMsjLskKe283",
-        "username": "erfan",
-        "password": "erfan1389",
-        "device_id": "0c96c764def0dd99",
-        "register_date": "18-07-2026",
-        "expiry_date": "18-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "SDMKsk203ksdS",
         "username": "cheat",
         "password": "12",
@@ -1312,5 +1302,11 @@
         "expiry_date": "21-08-2026",
         "active": true,
         "used": true
+    },
+    {
+        "license": "NMsjLskKe283",
+        "expiry_date": "18-08-2026",
+        "active": true,
+        "used": false
     }
 ]
