@@ -550,16 +550,6 @@
         "used": true
     },
     {
-        "license": "DJKFN_DFKD-23m",
-        "username": "amix",
-        "password": "amir1387",
-        "device_id": "49c7d4ce542e7245",
-        "register_date": "23-07-2026 20:09:46",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "SDKSD-23jjds-22",
         "username": "javad0914",
         "password": "12344321",
@@ -1222,6 +1212,12 @@
     {
         "license": "FIXED-3R1Q2-A75ZJ",
         "expiry_date": "19-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-MUTH9-3A30H",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": true
     }
