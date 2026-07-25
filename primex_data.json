@@ -280,16 +280,6 @@
         "used": true
     },
     {
-        "license": "kKsOw\u0130PNA290",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "20-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "NLeodu829K",
         "username": "mers",
         "password": "mersi",
@@ -1219,6 +1209,12 @@
     {
         "license": "FIXED-814RF-E04MV",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-KP20U-2JDC4",
+        "expiry_date": "20-08-2026",
         "active": true,
         "used": true
     }
