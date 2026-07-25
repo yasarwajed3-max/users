@@ -250,16 +250,6 @@
         "used": false
     },
     {
-        "license": "BMLOGFGH",
-        "username": "tareq",
-        "password": "kgsardar ",
-        "device_id": "958534a1c1863190",
-        "register_date": "25-07-2026 21:40:40",
-        "expiry_date": "19-07-2036",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "NDJNFDJN2934",
         "username": "mmamm",
         "password": "m12125656",
@@ -1406,6 +1396,16 @@
         "device_id": "",
         "register_date": "",
         "expiry_date": "25-08-2026",
+        "active": true,
+        "used": false
+    },
+    {
+        "license": "FIXED-C4GTC-M3AR1",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "19-07-2036",
         "active": true,
         "used": false
     }
