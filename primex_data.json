@@ -840,16 +840,6 @@
         "used": true
     },
     {
-        "license": "SKDKD203m-2",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "24-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MSFKDFK-293j-2m",
         "username": "",
         "password": "",
@@ -1250,6 +1240,12 @@
     {
         "license": "FIXED-1Z39C-CFGIO",
         "expiry_date": "22-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-EFX1A-0ZDB2",
+        "expiry_date": "24-08-2026",
         "active": true,
         "used": true
     }
