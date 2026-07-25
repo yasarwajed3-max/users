@@ -670,16 +670,6 @@
         "used": true
     },
     {
-        "license": "DFJKDF-2838-0sdf",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "DSMSK-293-cms1!",
         "username": "DSMSK-293-cms1!",
         "password": "Taha1391",
@@ -1318,6 +1308,12 @@
     {
         "license": "FIXED-CVCHV-7354W",
         "expiry_date": "22-07-2036",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-ZR59M-0ZFNY",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": true
     }
