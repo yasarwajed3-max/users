@@ -450,16 +450,6 @@
         "used": true
     },
     {
-        "license": "dfkdkfn292M",
-        "username": "assassin",
-        "password": "assassin",
-        "device_id": "5a62da7468c43951",
-        "register_date": "22-07-2026 22:34:31",
-        "expiry_date": "22-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "dfkd-MDKFM29-dfm",
         "username": "",
         "password": "",
@@ -1186,6 +1176,12 @@
     {
         "license": "nakKdj3+679J",
         "expiry_date": "19-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "dfkdkfn292M",
+        "expiry_date": "22-08-2026",
         "active": true,
         "used": true
     }
