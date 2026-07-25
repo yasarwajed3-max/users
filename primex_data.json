@@ -1130,16 +1130,6 @@
         "used": false
     },
     {
-        "license": "S6NOV-MQ367-6ZMAQ",
-        "username": "Amirm3215",
-        "password": "90Q63Qm9",
-        "device_id": "f0b0ab1d2bab5f8f",
-        "register_date": "25-07-2026 00:59:40",
-        "expiry_date": "24-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "9UMX4-REVFP-41S0G",
         "username": "loveM",
         "password": "muslimfbs ",
@@ -1270,6 +1260,12 @@
     {
         "license": "NDNFDKS-228J",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "S6NOV-MQ367-6ZMAQ",
+        "expiry_date": "24-08-2026",
         "active": true,
         "used": true
     }
