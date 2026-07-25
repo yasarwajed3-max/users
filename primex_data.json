@@ -580,16 +580,6 @@
         "used": false
     },
     {
-        "license": "9UMX4-REVFP-41S0G",
-        "username": "loveM",
-        "password": "muslimfbs ",
-        "device_id": "7a7da30ff968bba9",
-        "register_date": "25-07-2026 03:36:02",
-        "expiry_date": "24-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "LY89X-ORSJH-YLG03",
         "username": "testmtx",
         "password": "1",
@@ -1401,6 +1391,16 @@
     },
     {
         "license": "FIXED-8XZ5X-LYM7H",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "24-08-2026",
+        "active": true,
+        "used": false
+    },
+    {
+        "license": "FIXED-41PWR-IOGEW",
         "username": "",
         "password": "",
         "device_id": "",
