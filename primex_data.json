@@ -1310,16 +1310,6 @@
         "used": true
     },
     {
-        "license": "BAJ7I-74Y0M-DNHQ1",
-        "username": "njdnsjdns",
-        "password": "1",
-        "device_id": "e74fc3f5c58a18e6",
-        "register_date": "26-07-2026 00:59:27",
-        "expiry_date": "25-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "FIXED-Z8Z5C-FO8XV",
         "username": "",
         "password": "",
@@ -1342,6 +1332,12 @@
     {
         "license": "FIXED-JLMSD-3Y25K",
         "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-MSSOG-IH8CB",
+        "expiry_date": "25-08-2026",
         "active": true,
         "used": true
     }
