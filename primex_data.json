@@ -940,16 +940,6 @@
         "used": true
     },
     {
-        "license": "\u064fDSKSDM-1mdm",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MbalLsl28",
         "username": "",
         "password": "",
@@ -1261,6 +1251,12 @@
     },
     {
         "license": "FIXED-CDIFE-HUND2",
+        "expiry_date": "23-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-T7F4S-6WG95",
         "expiry_date": "23-08-2026",
         "active": true,
         "used": true
