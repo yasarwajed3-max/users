@@ -90,16 +90,6 @@
         "used": false
     },
     {
-        "license": "NJDNJN2u39-238n",
-        "username": "KingJavad77",
-        "password": "mj123321jm",
-        "device_id": "3aeb3af7efea0ee6",
-        "register_date": "07-07-2026",
-        "expiry_date": "06-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "MDKFM-3493m-MDSj",
         "username": "mmd",
         "password": "eminemmma78",
@@ -1320,5 +1310,11 @@
         "expiry_date": "24-08-2026",
         "active": true,
         "used": true
+    },
+    {
+        "license": "NJDNJN2u39-238n",
+        "expiry_date": "06-08-2026",
+        "active": true,
+        "used": false
     }
 ]
