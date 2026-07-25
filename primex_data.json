@@ -780,16 +780,6 @@
         "used": false
     },
     {
-        "license": "MDMFK293mfms",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "05-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "MMslsozj82",
         "username": "",
         "password": "",
@@ -1387,5 +1377,15 @@
         "register_date": "25-07-2026",
         "expiry_date": "25-07-2027",
         "active": true
+    },
+    {
+        "license": "FIXED-LXVDP-S1LFD",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "05-08-2026",
+        "active": true,
+        "used": false
     }
 ]
