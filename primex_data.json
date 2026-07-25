@@ -900,16 +900,6 @@
         "used": true
     },
     {
-        "license": "XHKUOSSf235",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "07-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MDKMDKMF292",
         "username": "",
         "password": "",
@@ -1215,6 +1205,12 @@
     {
         "license": "FIXED-KP20U-2JDC4",
         "expiry_date": "20-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-FT90X-RJ7SE",
+        "expiry_date": "07-08-2026",
         "active": true,
         "used": true
     }
