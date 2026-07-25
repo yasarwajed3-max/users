@@ -180,16 +180,6 @@
         "used": true
     },
     {
-        "license": "NDSJN2938sj",
-        "username": "",
-        "password": "",
-        "device_id": "",
-        "register_date": "",
-        "expiry_date": "13-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "MnLapPwo29",
         "username": "Emran",
         "password": "Emran",
@@ -1309,6 +1299,12 @@
     },
     {
         "license": "FIXED-WE2R6-Y0WKH",
+        "expiry_date": "13-08-2026",
+        "active": true,
+        "used": true
+    },
+    {
+        "license": "FIXED-AWCJE-4WIS5",
         "expiry_date": "13-08-2026",
         "active": true,
         "used": true
