@@ -550,16 +550,6 @@
         "used": false
     },
     {
-        "license": "QXTDA-ANGJB-BN51K",
-        "username": "amir111109",
-        "password": "amir1388",
-        "device_id": "404701990b0fd948",
-        "register_date": "25-07-2026 21:43:29",
-        "expiry_date": "25-08-2026",
-        "active": true,
-        "used": false
-    },
-    {
         "license": "DFMD-239cm-dsm",
         "username": "",
         "password": "",
@@ -1406,6 +1396,16 @@
         "device_id": "",
         "register_date": "",
         "expiry_date": "22-08-2026",
+        "active": true,
+        "used": false
+    },
+    {
+        "license": "FIXED-574X7-HMXMC",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "25-08-2026",
         "active": true,
         "used": false
     }
