@@ -1390,16 +1390,6 @@
         "used": true
     },
     {
-        "license": "FIXED-JX3YH-3W48M",
-        "username": "0994ff",
-        "password": "0996ff",
-        "device_id": "8558b39b3d9d6809",
-        "register_date": "26-07-2026 11:21:24",
-        "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
-    },
-    {
         "license": "FIXED-8P6YF-0PCWY",
         "username": "sohail kkkk",
         "password": "13888",
@@ -1416,6 +1406,16 @@
         "device_id": "",
         "register_date": "",
         "expiry_date": "31-07-2026",
+        "active": true,
+        "used": false
+    },
+    {
+        "license": "FIXED-AR0TL-U2IO5",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
+        "expiry_date": "23-08-2026",
         "active": true,
         "used": false
     }
