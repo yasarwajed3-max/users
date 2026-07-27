@@ -1496,5 +1496,14 @@
         "register_date": "27-07-2026",
         "expiry_date": "27-08-2026",
         "active": true
+    },
+    {
+        "license": "SH6DW-WS8GC-ZRFMV",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "27-07-2026",
+        "expiry_date": "27-08-2026",
+        "active": true
     }
 ]
