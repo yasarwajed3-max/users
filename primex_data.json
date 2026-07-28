@@ -1567,5 +1567,14 @@
         "register_date": "28-07-2026",
         "expiry_date": "28-08-2026",
         "active": true
+    },
+    {
+        "license": "1NWOJ-QEJY4-V8TFO",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "28-07-2026",
+        "expiry_date": "28-07-2036",
+        "active": true
     }
 ]
