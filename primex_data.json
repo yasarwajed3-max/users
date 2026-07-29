@@ -1031,13 +1031,12 @@
     },
     {
         "license": "FIXED-ZISZC-Z0CHE",
-        "username": "dani",
-        "password": "danifree",
-        "device_id": "8f0cc88d470a7a39",
-        "register_date": "26-07-2026 00:49:38",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "23-08-2026",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "FIXED-JBEQT-DZT5N",
