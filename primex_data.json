@@ -1817,5 +1817,14 @@
         "register_date": "30-07-2026",
         "expiry_date": "30-08-2026",
         "active": true
+    },
+    {
+        "license": "C0D96-LCRV1-6SD4Q",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "30-07-2026",
+        "expiry_date": "30-08-2026",
+        "active": true
     }
 ]
