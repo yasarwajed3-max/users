@@ -1826,5 +1826,14 @@
         "register_date": "30-07-2026",
         "expiry_date": "30-08-2026",
         "active": true
+    },
+    {
+        "license": "QGMWA-TBVO6-NW80H",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "30-07-2026",
+        "expiry_date": "30-08-2026",
+        "active": true
     }
 ]
