@@ -1711,13 +1711,12 @@
     },
     {
         "license": "PO1S6-D9YK3-ORVXZ",
-        "username": "mohsen051",
-        "password": "mohsen_051",
-        "device_id": "71423e49b05f808f",
-        "register_date": "29-07-2026 16:32:56",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "29-07-2036",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "WTUD4-0OS7J-MZ93S",
