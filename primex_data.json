@@ -2027,5 +2027,14 @@
         "register_date": "01-08-2026",
         "expiry_date": "01-09-2026",
         "active": true
+    },
+    {
+        "license": "DECN3-P1IZW-NJA6R",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "01-08-2026",
+        "expiry_date": "01-09-2026",
+        "active": true
     }
 ]
