@@ -2067,5 +2067,14 @@
         "register_date": "01-08-2026",
         "expiry_date": "01-09-2026",
         "active": true
+    },
+    {
+        "license": "EW8SI-5NZ96-QK8HA",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "02-08-2026",
+        "expiry_date": "02-09-2026",
+        "active": true
     }
 ]
