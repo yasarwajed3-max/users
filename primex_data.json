@@ -2096,5 +2096,14 @@
         "register_date": "02-08-2026",
         "expiry_date": "02-09-2026",
         "active": true
+    },
+    {
+        "license": "FAG2C-2L4DF-2K1JU",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "02-08-2026",
+        "expiry_date": "02-09-2026",
+        "active": true
     }
 ]
