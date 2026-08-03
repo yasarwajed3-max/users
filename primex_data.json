@@ -2157,5 +2157,14 @@
         "register_date": "03-08-2026",
         "expiry_date": "03-09-2026",
         "active": true
+    },
+    {
+        "license": "CPFRQ-NG8I9-GX7F8",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "03-08-2026",
+        "expiry_date": "03-09-2026",
+        "active": true
     }
 ]
