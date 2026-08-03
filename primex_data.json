@@ -2150,13 +2150,12 @@
     },
     {
         "license": "VO5T4-1NAUF-UVZ72",
-        "username": "notaxm",
-        "password": "amirnota",
-        "device_id": "3ca666974774e776",
-        "register_date": "03-08-2026 21:13:13",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "03-09-2026",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "CPFRQ-NG8I9-GX7F8",
