@@ -2287,5 +2287,14 @@
         "register_date": "06-08-2026",
         "expiry_date": "06-09-2026",
         "active": true
+    },
+    {
+        "license": "QD2FB-U9VYQ-EHCT0",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "06-08-2026",
+        "expiry_date": "06-09-2026",
+        "active": true
     }
 ]
