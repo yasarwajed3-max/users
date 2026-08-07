@@ -2321,13 +2321,12 @@
     },
     {
         "license": "HPKIF-6DUHY-SRNCI",
-        "username": "amiro",
-        "password": "1234",
-        "device_id": "7f8b1e46603d002b",
-        "register_date": "07-08-2026 01:15:56",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "",
         "expiry_date": "06-09-2026",
-        "active": true,
-        "used": true
+        "active": true
     },
     {
         "license": "269IY-HIM6V-0UC9T",
