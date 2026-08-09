@@ -2557,5 +2557,14 @@
         "register_date": "09-08-2026",
         "expiry_date": "09-09-2026",
         "active": true
+    },
+    {
+        "license": "LXD6R-QCHPD-265TI",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "09-08-2026",
+        "expiry_date": "09-09-2026",
+        "active": true
     }
 ]
