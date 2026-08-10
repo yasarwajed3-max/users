@@ -2607,5 +2607,14 @@
         "register_date": "10-08-2026",
         "expiry_date": "10-09-2026",
         "active": true
+    },
+    {
+        "license": "E50MW-R8JT5-STM4V",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "10-08-2026",
+        "expiry_date": "10-09-2026",
+        "active": true
     }
 ]
