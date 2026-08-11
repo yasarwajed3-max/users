@@ -2807,5 +2807,14 @@
         "register_date": "11-08-2026",
         "expiry_date": "11-09-2026",
         "active": true
+    },
+    {
+        "license": "JQP53-MUZ3K-SBXLW",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "11-08-2026",
+        "expiry_date": "11-09-2026",
+        "active": true
     }
 ]
