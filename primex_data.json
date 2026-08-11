@@ -2696,5 +2696,14 @@
         "register_date": "11-08-2026",
         "expiry_date": "11-09-2026",
         "active": true
+    },
+    {
+        "license": "MEOHB-ZFPO4-TJAGK",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "11-08-2026",
+        "expiry_date": "11-09-2026",
+        "active": true
     }
 ]
