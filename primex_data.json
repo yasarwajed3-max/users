@@ -2667,5 +2667,14 @@
         "register_date": "11-08-2026",
         "expiry_date": "11-09-2026",
         "active": true
+    },
+    {
+        "license": "ZS95D-WDHF4-EH1J6",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "11-08-2026",
+        "expiry_date": "11-09-2026",
+        "active": true
     }
 ]
