@@ -2886,5 +2886,14 @@
         "register_date": "12-08-2026",
         "expiry_date": "12-09-2026",
         "active": true
+    },
+    {
+        "license": "98FGM-XHPVR-6HFYM",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "12-08-2026",
+        "expiry_date": "12-09-2026",
+        "active": true
     }
 ]
