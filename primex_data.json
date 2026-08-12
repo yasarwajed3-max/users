@@ -2927,5 +2927,14 @@
         "register_date": "12-08-2026",
         "expiry_date": "12-09-2026",
         "active": true
+    },
+    {
+        "license": "RFDB6-TBA2H-FK94C",
+        "username": "",
+        "password": "",
+        "device_id": "",
+        "register_date": "12-08-2026",
+        "expiry_date": "12-09-2026",
+        "active": true
     }
 ]
