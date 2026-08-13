@@ -3014,5 +3014,11 @@
     "key": "kos",
     "expirydate": "01-01-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "@mothermtxfuckerbot",
+    "key": "@mothermtxfuckerbot",
+    "expirydate": "01-01-2099",
+    "Allowoffline": true
   }
 ]
